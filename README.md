@@ -1,16 +1,28 @@
 # todo_app
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app is a todo-app project developed with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Used technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- GetX
+https://pub.dev/packages/get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Get Storage
+https://pub.dev/packages/get_storage
+
+- Equatable
+https://pub.dev/packages/equatable
+
+- Flutter EasyLoading
+https://pub.dev/packages/flutter_easyloading
+
+- Dotted Border
+https://pub.dev/packages/dotted_border
+
+- Step Progress Indicator
+https://pub.dev/packages/step_progress_indicator
+
+- Intl
+https://pub.dev/packages/intl
