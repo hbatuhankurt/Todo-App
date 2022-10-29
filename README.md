@@ -35,8 +35,8 @@ https://pub.dev/packages/intl
 
 ![](/assets/screenshots/AddTask2.png)
 
-![](/assets/screenshots/DeleteList.png)
-
 ![](/assets/screenshots/MyReport.png)
+
+![](/assets/screenshots/DeleteList.png)
 
 ![](/assets/screenshots/DeleteSuccess.png)
