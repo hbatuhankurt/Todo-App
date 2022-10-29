@@ -26,3 +26,17 @@ https://pub.dev/packages/step_progress_indicator
 
 - Intl
 https://pub.dev/packages/intl
+
+![](/assets/screenshots/Home.png)
+
+![](/assets/screenshots/AddTaskType.png)
+
+![](/assets/screenshots/AddTask.png)
+
+![](/assets/screenshots/AddTask2.png)
+
+![](/assets/screenshots/DeleteList.png)
+
+![](/assets/screenshots/MyReport.png)
+
+![](/assets/screenshots/DeleteSuccess.png)
